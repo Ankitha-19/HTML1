@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>First Page</title>
+</head>
+<body background="https://npr.brightspotcdn.com/dims4/default/0cefce8/2147483647/strip/true/crop/6558x4414+0+0/resize/880x592!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb2%2F88%2F15c02e194204bdd92b248bba2b78%2Fadobestock-239244529.jpeg">
+	<h1 style="font-family:georgia,garamond,serif;font-size:50px;font-style:italic;color:white;"><center><b>WATCH MOVIES ON!!!!!!</b></center></h1>
+	<style type="text/css">
+		body{
+			background-color:black ;
+			background-image:"https://images.unsplash.com/photo-1625507946701-dcaa2a4a6ed4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHw%3D&w=1000&q=80" ;
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+			background-size: 100% 100% ;
+			border-image-slice: 5px;
+		}
+	</style>
+	<br>
+    <span class="psw"><a href="file:///C:/Users/Harshitha/OneDrive/Desktop/HTML/a1.html"><p style="color:white;font-size: 40px;text-align: right;"><b>LOGIN</b></p></a></span></div>
+    <br>
+   <br>
+    <span class="psw"><a href="file:///C:/Users/Harshitha/OneDrive/Desktop/HTML/singupproject.html"><p style="color:white;font-size: 40px;text-align: right;"><b>SIGNUP</b></p></a></span>
+
+    <br>
+</body>
+</html>
