@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Movie</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
+</head>
+  <style type="text/css">
+    body{
+      background-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLeFLd86FtpZnr8N1D8y5ksrgxyNkZRP_RGQ&usqp=CAU";
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: 100% 100% ;
+    }
+  </style>
+<body background="https://mir-s3-cdn-cf.behance.net/project_modules/disp/dcb98322586791.563152b707d6f.gif">
+ <h1 style="font-family:georgia,garamond,serif;font-size:30px;font-style:italic;color:saddlebrown;"><center><b>CINEMA</b></center></h1>
+	<h2 style="font-family:georgia,garamond,serif;font-size:30px;font-style:italic;color:saddlebrown;"><center><b>CINEMA</b></center></h2>
+	<h3 style="font-family:georgia,garamond,serif;font-size:20px;font-style:italic;color:saddlebrown;"><center><b>CINEMA</b></center></h3>
+	<h5 style="font-family:georgia,garamond,serif;font-size:10px;font-style:italic;color:saddlebrown;"><center><b>CINEMA</b></center></h5>
+	<h6 style="font-family:georgia,garamond,serif;font-size:5px;font-style:italic;color:saddlebrown;"><center><b>CINEMA</b></center></h6>
+	<style type="text/css">div {text-align: center;}</style>
+
+	
+</style>
+</head>
+<body style="background-color:powderblue;">
+  <div class="container">
+    <label for="uname"><p style="color:mintcream;font-size: 30px;"><b>Username</b></p></label>
+    <input type="text" placeholder="Enter Username" name="uname" required>
+    <br>
+
+    <label for="psw"><p style="color:mintcream;font-size: 30px;"><b>Password</b></p></label>
+    <input type="password" placeholder="Enter Password" name="psw" required>
+    <br>
+
+    <button type="submit"><p style="color:black;font-size: 20px;">
+      <span class="psw"><a href="file:///C:/Users/Harshitha/OneDrive/Desktop/HTML/homepage1.html"><b>LOGIN</b></p></a></span></div></p></button>
+    <br>
+    <br>
+    <label>
+      <center><input type="checkbox" checked="checked" name="remember"> <p style="color:mintcream;font-size: 20px;">Remember me</p></center>
+    </label>
+    <br>
+  </div>
+
+  <div class="container" style="background-color:#black;">
+    <button type="button" class="cancelbtn">Cancel</button>
+    <br>
+    <span class="psw"><a href="file:///C:/Users/Harshitha/OneDrive/Desktop/HTML/forgot_password.html"><p style="color:white;font-size: 20px;">Forgot password?</p></a></span>
+    <br>
+  
+  </div>
+</form>
+</body>
+</html>
